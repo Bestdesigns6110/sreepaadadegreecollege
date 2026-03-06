@@ -38,7 +38,7 @@
     background-image: url(../../images/shape/title-shape.svg);
 }
 .banner_left_text h1{
-    font-size: 20px;
+    font-size: 25px;
     line-height: 1.4em;
     font-weight: 700;
     color: var(--bs-white);

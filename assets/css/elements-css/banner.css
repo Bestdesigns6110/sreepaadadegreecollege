@@ -6,7 +6,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(../../images/banner/banner.png);
+    background-image: url(../../images/banner/Sreepaada-8.png);
     /* background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../images/banner/banner-01.jpg); */
 }
 .banner_home_one::before {
@@ -38,7 +38,7 @@
     background-image: url(../../images/shape/title-shape.svg);
 }
 .banner_left_text h1{
-    font-size: 25px;
+    font-size: 48px;
     line-height: 1.4em;
     font-weight: 700;
     color: var(--bs-white);

@@ -510,9 +510,9 @@
     .banner_home_one{
         padding: 200px 0px;
     }
-    .banner_left_text h1{
+    /* .banner_left_text h1{
         font-size: 75px;
-    }
+    } */
     .banner_home_two .banner_left_text h1{
         font-size: 60px;
         line-height: 70px;
@@ -547,7 +547,7 @@
 @media only screen and (max-width: 1139px){
     .banner_home_one{
         margin-top: 0px;
-        padding: 150px 0px;
+        padding: 50px 0px 0px !important;
     }
     .banner_home_two{
         padding: 200px 0px 120px;
@@ -556,17 +556,20 @@
         left: 0px;
         bottom: 20px;
     }
+    .coum_out::after {
+    width: 20% !important;
+}
 }
 @media only screen and (max-width: 1030px){
-    .banner_home_one h1{
+    /* .banner_home_one h1{
         font-size: 70px;
-    }
+    } */
 }
 @media only screen and (max-width: 845px){
-    .banner_home_one h1{
+    /* .banner_home_one h1{
         font-size: 60px;
         line-height: 70px;
-    }
+    } */
 }
 @media only screen and (max-width: 767px){
     .banner_home_one{
@@ -625,10 +628,17 @@
     .banner_home_one{
         padding: 70px 0px 100px;
     }
-    .banner_home_one h1{
-        font-size: 40px;
-        line-height: 60px;
+.banner_home_one h1 {
+        font-size: 32px;
+        line-height: 39px;
     }
+    .banner_home_one h1 br{
+        display: none !important;
+    }
+    span.education span svg {
+
+    width: 65% !important;
+}
     .banner_home_two .banner_left_text h1{
         font-size: 40px;
         line-height: 50px;
@@ -655,9 +665,10 @@
     }
 }
 @media only screen and (max-width: 450px){
-    .banner_home_one h1{
-        font-size: 36px;
-        line-height: 50px;
+       .banner_home_one h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 0px !important;
     }
     .banner_left_text{
         padding-bottom: 10px;

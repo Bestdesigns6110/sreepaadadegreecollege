@@ -98,7 +98,7 @@
     padding: 30px 0px;
 }
 .header_middle_logo{
-    max-width: 174px;
+    max-width: 280px;
 }
 .header_middle_info{
     display: flex;
@@ -1031,9 +1031,15 @@ div#mCSB_1_container{
     .menu_area .mobile-nav-toggler{
         padding: 15px;
     }
-    .header_lower_style_one{
-        margin-bottom: 25px;
+        .header_lower_style_one {
+        margin-bottom: 0px;
+        padding-top: 12px;
+        padding-bottom: 12px;
     }
+    .header_middle_info {
+    /* display: flex; */
+    gap: 0 !important;
+}
     .header_top_home_four{
         border-radius: 0;
     }
@@ -1071,7 +1077,7 @@ div#mCSB_1_container{
     }
     .header_middle_logo{
         margin: 0 auto;
-        margin-bottom: 20px;
+        margin-bottom: 0px;
     }
     .header_middle_info{
         justify-content: space-between;
@@ -1091,6 +1097,13 @@ div#mCSB_1_container{
     .header_top_home_three .log_in_button .button-style-four{
         display: inline-block;
     }
+    .button-style-one {
+    position: relative;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 25px;
+}
 }
 @media only screen and (max-width: 600px){
     .header_middle_style_two .header_middle_inner{
@@ -1127,6 +1140,9 @@ div#mCSB_1_container{
     .main_header.home_four .search_box form{
         width: 300px;
     }
+    .header_middle_info{
+        display: none !important;
+    }
 }
 @media only screen and (max-width: 500px){
     .header_middle_info{
@@ -1139,7 +1155,7 @@ div#mCSB_1_container{
         display: flex;
         align-items: center;
         gap: 15px;
-        padding: 18px 30px;
+        padding: 12px 30px;
     }
     .header_lower_right .button-style-one i{
         position: relative;
@@ -1157,9 +1173,12 @@ div#mCSB_1_container{
     }
 }
 @media only screen and (max-width: 430px){
-    .header_middle_logo{
+     .header_middle_logo {
+        margin: 0 !important;
+        /* margin-bottom: 20px; */
+        width: 100%;
+        max-width: 100%;
         margin: 0;
-        margin-bottom: 20px;
     }
     .header_middle_info{
         gap: 10px;

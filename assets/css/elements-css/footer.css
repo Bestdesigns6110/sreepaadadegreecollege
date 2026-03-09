@@ -84,11 +84,13 @@
 /* End Footer Middle */
 
 /* Footer Bottom */
-.footer_bottom_home_one{
+.footer_bottom_home_one {
     position: relative;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    border-top: 1px solid #ffffff3b;
+    padding-top: 23px;
 }
 .copyright_text_home_one{
     font-weight: 400;
@@ -147,5 +149,5 @@
 }
 
 .footer_logo img {
-    width: 180px;
+    width: 280px;
 }

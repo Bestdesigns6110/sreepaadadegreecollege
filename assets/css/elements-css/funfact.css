@@ -40,6 +40,8 @@
 .funfact_section_home_three{
 	position: relative;
 	background-color: #F8F8F8;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 .funfact_section_home_three:before{
 	position: absolute;

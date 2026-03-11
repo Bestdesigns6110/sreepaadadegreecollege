@@ -344,4 +344,6 @@ margin-bottom: 18px !important;
     border-radius: 50px;
     border: 1px solid #fff;
     margin-left: -4px;
+    object-fit: cover;
+    object-position: center;
 }

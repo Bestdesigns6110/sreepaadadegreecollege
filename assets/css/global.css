@@ -1203,7 +1203,13 @@ background-color: #ecf0f9 !important;
     line-height: 38px;
 }
 .sec_padding_70 {
-    padding: 45px 0px;
+    padding: 45px 15px;
+}
+.why_left {
+    text-align: center;
+}
+.whyuniversity{
+    padding-top: 20px !important;
 }
 }
 
@@ -1230,3 +1236,30 @@ p br{
     color: #fff;
     /* font-weight: 600 !important; */
 }
+
+.footer_logo img {
+    background: #fff;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+
+section.banner_stamp h2 {
+    color: #fff;
+}
+
+section.banner_stamp p {
+    color: #fff;
+    margin-top: 15px;
+}
+
+section.banner_stamp img {
+    width: 80%;
+}
+
+.section.banner_stamp .col-md-4 {
+    text-align: center;
+}
+
+
+

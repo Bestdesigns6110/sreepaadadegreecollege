@@ -521,7 +521,7 @@
         margin-bottom: 30px;
     }
     .funfact_section_home_three{
-        padding: 80px 0px;
+        padding: 45px 15px;
     }
     .funfact_left_text{
         padding: 0;
@@ -783,7 +783,7 @@
         padding-bottom: 50px;
     }
     .clients_section_home_one{
-        padding: 100px 0px;
+        padding: 45px 0px;
     }
     .services_content_home_one h2{
         font-size: 30px;
@@ -949,4 +949,11 @@
         margin-bottom: 0;
         display: inline-block;
     }    
+}
+
+
+
+.pl-4{
+    border: 1px solid red !important;
+    padding-left: 40px !important;
 }

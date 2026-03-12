@@ -1603,9 +1603,12 @@
 }
 .accordion-box .accordion {
     display: block;
-    max-width: 570px;
+    max-width: 100%;
     width: 100%;
-    border-bottom: 1px solid rgba(40, 40, 40, 0.3);
+    border-bottom: 0;
+    background: #ECF0F9;
+    margin-bottom: 10px;
+    padding: 15px !important;
 }
 .accordion-box .accordion .acc-btn {
     position: relative;
@@ -1623,6 +1626,7 @@
 }
 .accordion-box .accordion .acc-btn .icon_box {
     color: var(--primary-color);
+    display: none !important;
 }
 .accordion-box .accordion .acc-btn::after {
     position: absolute;

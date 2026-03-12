@@ -125,7 +125,7 @@
 .header_middle_info a{
     font-style: normal;
     font-weight: 700;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 29px;
     transition: .5s;
     color: var(--theme-color-two);

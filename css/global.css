@@ -859,9 +859,10 @@ img {
 
 
 .faculties_out img {
-    height: 552px;
+    height: 330px;
     object-fit: cover;
     width: 100%;
+    object-position: top;
 }
 .faculties_out{
     transition: .5s;

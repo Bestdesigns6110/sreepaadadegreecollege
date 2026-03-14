@@ -778,7 +778,7 @@ img {
 .bg-gradient::before{
     content: "";
     position: absolute;
-    width: 100%;
+    width: 50%;
     height: 100%;
     background-color: transparent;
     --background-overlay: '';
@@ -800,7 +800,7 @@ img {
 
 .faculties_content h4 {
     color: #fff;
-    font-size: 20px;
+    font-size: 11px;
     font-weight: 600 !important;
     margin-bottom: 10px;
 }
@@ -859,9 +859,9 @@ img {
 
 
 .faculties_out img {
-    height: 552px;
+    height: 252px;
     object-fit: cover;
-    width: 100%;
+    width: 50%;
 }
 .faculties_out{
     transition: .5s;

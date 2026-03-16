@@ -312,7 +312,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-4 act_out_01">
+          <div class="col-md-4 act_out_01 act_out_02">
             <div class="acad_out">
               <div class="icon">
                 <svg
@@ -352,7 +352,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-4 act_out_01">
+          <div class="col-md-4 act_out_01 act_out_03">
             <div class="acad_out">
               <div class="icon">
                 <svg
@@ -381,7 +381,7 @@
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="funfact_left_text whyuniversity pt-0 pb-0">
-              <h5>PRINCIPLE IN EDUCATION</h5>
+              <h5>PRINCIPLE    IN EDUCATION</h5>
               <h2>Our Principles in Teaching</h2>
             </div>
           </div>

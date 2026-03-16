@@ -75,14 +75,14 @@
                 </div>
               
             </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 programs_block">
+            <!-- <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
                     <img src="smiling-student-holding-book-wearing-shoulder-bag.jpg" alt="">
                     <div class="faculties_content">
                         <h4>AI Artificial Intelligence</h4>
                         <p>Explore AI technologies, machine learning, and automation to shape the future of technology.</p>
                     </div>
-                </div>
+                </div> -->
               
             </div>
          

@@ -5,7 +5,7 @@
 <section class="bredcum_out">
 <div class="container">
   <div class="bredcum-cnt text-center">
-    <p>FACULTIES</p>
+    <p>FACULTY</p>
         <h2>Empowering Students <br>Through Quality Education</h2>
     </div>
 </div>
@@ -147,10 +147,10 @@
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
                    <img src="images/teacher-1.jpg" alt="">                    <div class="faculties_content">
-                        <h4>Name:D.S.Sowjanya</h4>
-                        <p>Designation:HOD, Management </p>
-                        <p>Teaching Experience:12 years</p>
-                        <p>Specialization:M.B.A, M.Sc</p>
+                        <h4>Name: D.S.Sowjanya</h4>
+                        <p>Designation: HOD, Management </p>
+                        <p>Teaching Experience: 12 years</p>
+                        <p>Specialization: MBA, MSc</p>
                         <!-- <p>Learn programming, software development, and computer technologies to build strong IT careers.</p> -->
                     </div>
                 </div>
@@ -160,10 +160,10 @@
                 <div class="faculties_out bg-gradient">
                     <img src="images/soba.jpg" alt="">
                     <div class="faculties_content">
-                         <h4>Name: Avala sobhana</h4>
-                        <p>Designation:Lecturer, CS</p>
-                        <p>Teaching Experience:13 years</p>
-                        <p>Specialization:AI</p>
+                         <h4>Name: Avala Sobhna</h4>
+                        <p>Designation: Lecturer, CS</p>
+                        <p>Teaching Experience: 13 years</p>
+                        <p>Specialization: AI</p>
                     </div>
                 </div>
               
@@ -174,8 +174,8 @@
                     <img src="images/aruna.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name:  V A S Aruna</h4>
-                        <p>Designation:Lecturer, CS</h4>
-                        <p>Teaching Experience:12 years</h4>
+                        <p>Designation: Lecturer, CS</h4>
+                        <p>Teaching Experience: 12 years</h4>
                         <p>Specialization:</h4>
                     </div>
                 </div>
@@ -186,10 +186,10 @@
                 <div class="faculties_out bg-gradient">
                     <img src="images/bavani.jpeg" alt="">
                     <div class="faculties_content">
-                         <h4>Name: MEKALA BHAVANI </h4>
-                        <p>Designation:lecturer in chemistry</h4>
-                        <p>Teaching Experience:5 years</h4>
-                        <p>Specialization:organic chemistry </h4>
+                         <h4>Name: Mekala Bhavani </h4>
+                        <p>Designation:Lecturer in chemistry</h4>
+                        <p>Teaching Experience: 5 years</h4>
+                        <p>Specialization: Organic Chemistry </h4>
                     </div>
                 </div>
               
@@ -199,10 +199,10 @@
                 <div class="faculties_out bg-gradient">
                     <img src="images/vasavi.jpeg" alt="">
                     <div class="faculties_content">
-                         <h4>Name:Ch.vasavi rani</h4>
-                        <p>Designation:Faculty in computers </h4>
-                        <p>Teaching Experience:8 years</h4>
-                        <p>Specialization:Quantum computing </h4>
+                         <h4>Name: Ch.Vasavi Rani</h4>
+                        <p>Designation: Faculty in Computers </h4>
+                        <p>Teaching Experience: 8 years</h4>
+                        <p>Specialization: Quantum Computing </h4>
                     </div>
                 </div>
               
@@ -212,10 +212,10 @@
                 <div class="faculties_out bg-gradient">
                     <img src="images/sai.jpeg" alt="">
                     <div class="faculties_content">
-                         <h4>Name:BALIVADA SAI</h4>
+                         <h4>Name: Balivada Sai</h4>
                         <p>Designation:Lecturer, CS</h4>
-                        <p>Teaching Experience:4 years</h4>
-                        <p>Specialization:Data science</h4>
+                        <p>Teaching Experience: 4 years</h4>
+                        <p>Specialization: Data Science</h4>
                     </div>
                 </div>
               
@@ -225,9 +225,9 @@
                 <div class="faculties_out bg-gradient">
                     <img src="images/ravi.jpeg" alt="">
                     <div class="faculties_content">
-                         <h4>Name: M. RAVI KIRAN</h4>
-                        <p>Designation:M.A(Lit),B.ed</h4>
-                        <p>Teaching Experience:1 years</h4>
+                         <h4>Name: M.Ravi Kiran</h4>
+                        <p>Designation: M.A(Lit),B.ed</h4>
+                        <p>Teaching Experience: 1 years</h4>
                         <p>Specialization:Sr. Faculty In English.</h4>
                     </div>
                 </div>
@@ -238,10 +238,10 @@
                 <div class="faculties_out bg-gradient">
                     <img src="images/neeli.jpeg" alt="">
                     <div class="faculties_content">
-                         <h4>Name:NEELI SRIKANTH </h4>
-                        <p>Designation:Msc</h4>
-                        <p>Teaching Experience:09 years </h4>
-                        <p>Specialization:Mathematics</h4>
+                         <h4>Name: Neeli Srikanth </h4>
+                        <p>Designation: Msc</h4>
+                        <p>Teaching Experience: 09 years </h4>
+                        <p>Specialization: Mathematics</h4>
                     </div>
                 </div>
               
@@ -254,7 +254,7 @@
                          <h4>Name: Ganta Varalakshmi</h4>
                         <p>Designation:Lecturer, Commerce</h4>
                         <p>Teaching Experience: 6 years</h4>
-                        <p>Specialization:Accounts</h4>
+                        <p>Specialization: Accounts</h4>
                     </div>
                 </div>
               
@@ -265,9 +265,9 @@
                     <img src="images/ponnada.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name: Ponnada karthik Kumar</h4>
-                        <p>Designation:lecturer & Statistics</h4>
-                        <p>Teaching Experience:13 years</h4>
-                        <p>Specialization:Statistics</h4>
+                        <p>Designation: Lecturer & Statistics</h4>
+                        <p>Teaching Experience: 13 years</h4>
+                        <p>Specialization: Statistics</h4>
                     </div>
                 </div>
               
@@ -278,9 +278,9 @@
                     <img src="images/avs.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name: A V S r l s d Kishore</h4>
-                        <p>Designation:Lecture in commerce</h4>
-                        <p>Teaching Experience:23 years</h4>
-                        <p>Specialization:Taxation</h4>
+                        <p>Designation: Lecture in commerce</h4>
+                        <p>Teaching Experience: 23 years</h4>
+                        <p>Specialization: Taxation</h4>
                     </div>
                 </div>
               
@@ -290,10 +290,10 @@
                 <div class="faculties_out bg-gradient">
                     <img src="images/venkat.jpeg" alt="">
                     <div class="faculties_content">
-                         <h4>Name:V.Venkata Vinay Teja</h4>
-                        <p>Designation:lecturer, department</h4>
-                        <p>Teaching Experience:1 years</h4>
-                        <p>Specialization:Machine Learning</h4>
+                         <h4>Name: V.Venkata Vinay Teja</h4>
+                        <p>Designation: Lecturer, department</h4>
+                        <p>Teaching Experience: 1 years</h4>
+                        <p>Specialization: Machine Learning</h4>
                     </div>
                 </div>
               
@@ -431,7 +431,7 @@
             </div> -->
          
         </div>
-<div class="link-btn centred"><a href="#" class="button-style-one">ADMISSION Opend </a></div>                    </div>
+<div class="link-btn centred"><a href="#" class="button-style-one">Admission Open </a></div>                    </div>
 
     </div>
 </section>
@@ -444,7 +444,7 @@
 <section class="faqs_section sec_padding_140">
     <div class="container">
         <div class="section_title_one centred mb_60">
-          <h5 class="line_out_center">College STAFF</h5>
+          <h5 class="line_out_center">College Staff</h5>
           <h2 class="mb-4">
            Guiding Students Toward Academic Excellence
           </h2>

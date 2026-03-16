@@ -64,7 +64,7 @@
                         </div>
                         <div class="icon-text">
                             <strong>Address</strong>
-                            <a href="#">Visakhapatnam, Andhra Pradesh 530018</a>
+                            <a href="contact-us.php">Visakhapatnam, Andhra Pradesh 530018</a>
                         </div>
                     </div>
                     <div class="phone_info">
@@ -82,7 +82,7 @@
                         </div>
                         <div class="icon-text">
                             <strong>Phone number</strong>
-                            <a href="tel:+12345678900">+91 97030 73871 /+91 08912731078</a>
+                            <a href="tel:+12345678900">+91 97030 73871 /+ 08912731078</a>
                         </div>                        
                     </div>
                 </div>

@@ -37,7 +37,7 @@
                                 <h4 class="footer_widget_title">Links</h4>
                                 <ul class="links_list">
                                     <!-- <li><a href="#">Students</a></li> -->
-                                    <li><a href="faculty.php">Faculty & Staffs</a></li>
+                                    <li><a href="faculty.php">Faculty & Staff</a></li>
                                     <!-- <li><a href="campus-life.html">Visit</a></li> -->
                                     <li><a href="admission.php">Registration</a></li>
                                     <!-- <li><a href="academics-two.html">Services</a></li> -->
@@ -59,7 +59,7 @@
             </div>
         </div>
         <div class="footer_bottom_home_one">
-            <div class="copyright_text_home_one">&copy;  2026 All Rights Reserved by<a href="index.html"> Sreepaadadegreecollege.</a> Designed & Developed by <a href="https://bestdesigns.in/">BestDesigns.</a></div>
+            <div class="copyright_text_home_one">&copy;  2026 All Rights Reserved by<a href="index.html"> Sree Paada Degree College.</a> Designed & Developed by <a href="https://bestdesigns.in/">BestDesigns.</a></div>
             
             <div class="social_links_style_two">
                 <ul>

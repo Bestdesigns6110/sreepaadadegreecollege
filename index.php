@@ -16,7 +16,7 @@
 </p>
 
 <div class="link-button d-flex">
-    <a href="#" class="button-style-four">Admission opened NOW <svg class="svg-inline--fa fa-arrow-right" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg><!-- <i class="fa-solid fa-arrow-right"></i> Font Awesome fontawesome.com --></a></div>
+    <a href="admission.php" class="button-style-four">Admissions Open Now<svg class="svg-inline--fa fa-arrow-right" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg><!-- <i class="fa-solid fa-arrow-right"></i> Font Awesome fontawesome.com --></a></div>
     <!-- <a href="#" class="button-style-four">Free Join Us <svg class="svg-inline--fa fa-arrow-right" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg><i class="fa-solid fa-arrow-right"></i> Font Awesome fontawesome.com</a></div> -->
                 </div>
             </div>
@@ -34,7 +34,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 p-0">
                 <div class="feature_block_one color-01">
                     <div class="feature_content">
-                        <h3><a href="#">Skilled Lectures</a></h3>
+                        <h3><a href="#">Skilled Lecturers</a></h3>
                         <p>Experienced faculty providing quality education and guidance for student success.</p>
                     </div>
                 </div>  
@@ -51,7 +51,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 p-0">
                 <div class="feature_block_one color-03">
                <div class="d-flex">
-                <img src="smiling-student-holding-book-wearing-shoulder-bag.jpg" />
+                <img src="young-ar-designer-sketching-holographic-wireframes-modern-office.jpg" />
                 <img src="handsome-young-indian-student-man-holding-notebooks-while-standing-street.jpg" />
                 <img src="smiling-student-holding-laptop-campus.jpg" />
                 <img src="https://kits.yumnatype.com/universite/wp-content/uploads/sites/42/2025/09/businessman-looking-at-the-camera-and-smile-while-2025-01-09-17-50-11-utc.jpg" />
@@ -107,7 +107,7 @@ I warmly invite students and parents to be part of the Sreepaada family and join
                 </p>
 
                 <ul class="why_points mt-3">
-                    <li><strong>dr kanakavalli </strong> <br>Chairman </li>
+                    <li><strong><h3><b>Dr. Kanakavalli</b></h3> </strong> Chairman </li>
 
                 </ul>
 
@@ -169,7 +169,7 @@ I warmly invite students and parents to be part of the Sreepaada family and join
 
                 <ul class="why_points mt-3">
                     <li>
-                        <strong>Srinivas S</strong><br>
+                        <strong><h3><b>S Srinivas </b></h3></strong>
                         Correspondent
                     </li>
                 </ul>
@@ -240,7 +240,7 @@ I warmly invite students and parents to be part of the Sreepaada family and join
 
                 <ul class="why_points mt-3">
                     <li>
-                        <strong>Principal</strong>
+                        <strong><h3><b>D.Rajesh</b></h3> </strong>Principal
                     </li>
                 </ul>
 
@@ -269,7 +269,7 @@ I warmly invite students and parents to be part of the Sreepaada family and join
                     <div class="about_right_content">
                     
                         <h5 class="line_out">ABOUT</h5>
-                        <h2>Welcome to <span>SreePaadaDegreeCollege</span>,<br>
+                        <h2>Welcome to <span>Sreepaada Degree College</span>,
 Creator of Underrated Graduates</h2>
                         <p>"Established in 2003 under the auspices of the SPR Memorial Educational Society, Sreepaada Degree College has been a beacon of excellence in higher education for over two decades. Nestled in the heart of Visakhapatnam city, our college offers a conducive environment for holistic learning and personal growth."
 </p>
@@ -438,7 +438,7 @@ Creator of Underrated Graduates</h2>
         <div class="section_title_one centred mb_60">
               <h5 class="line_out_center">Courses</h5>
                         <h2 class="mb-4">Discover Our Diverse Academic Programs</h2>
-                        <p>Our college offers a wide range of academic departments designed to<br> provide quality education, practical knowledge, and skill <br>development to help students succeed in their chosen careers.</p>
+                        <p>Our college offers a wide range of academic departments designed to<br> provide quality education, practical knowledge, and skill development to help students succeed in their chosen careers.</p>
         </div>
 
         
@@ -492,7 +492,7 @@ Creator of Underrated Graduates</h2>
                 </div>
               
             </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 programs_block">
+            <!-- <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
                     <img src="smiling-student-holding-book-wearing-shoulder-bag.jpg" alt="">
                     <div class="faculties_content">
@@ -502,9 +502,9 @@ Creator of Underrated Graduates</h2>
                 </div>
               
             </div>
-         
+          -->
         </div>
-<div class="link-btn centred"><a href="#" class="button-style-one">ADMISSION Opend </a></div>                    </div>
+<div class="link-btn centred"><a href="admission.php" class="button-style-one">Admission Open </a></div>                    </div>
 
     </div>
 </section>
@@ -547,7 +547,7 @@ Creator of Underrated Graduates</h2>
         <div class="section_title_one centred mb_60">
               <h5>CAMPUS LIFE</h5>
                         <h2 class="mb-4">Grow & Develop your Soft Skills Everywhere</h2>
-                        <p>Our campus life helps students build confidence, communication,<br> leadership, and teamwork skills through various <br>activities, events, and learning opportunities.</p>
+                        <p>Our campus life helps students build confidence, communication,<br> leadership, and teamwork skills through various activities, events, and learning opportunities.</p>
         </div>
 
           <div class="row clearfix">

@@ -24,7 +24,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Weekly Schedule</title>
+<title>Exam Time Table</title>
 
 <style>
 
@@ -114,7 +114,7 @@ h2{
 
 <div class="schedule">
 
-<h2>Weekly Schedule</h2>
+<h2>Exam Time Table</h2>
 
 <div class="table-wrapper">
 

@@ -19,7 +19,7 @@
         <div class="section_title_one centred mb_60">
               <h5 class="line_out_center">Courses</h5>
                         <h2 class="mb-4">Discover Our Diverse Academic Programs</h2>
-                        <p>Our college offers a wide range of academic departments designed to<br> provide quality education, practical knowledge, and skill <br>development to help students succeed in their chosen careers.</p>
+                        <p>Our college offers a wide range of academic departments designed to<br> provide quality education, practical knowledge, and skill development to help students succeed in their chosen careers.</p>
         </div>
 
         
@@ -73,7 +73,7 @@
                 </div>
               
             </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 programs_block">
+            <!-- <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
                     <img src="smiling-student-holding-book-wearing-shoulder-bag.jpg" alt="">
                     <div class="faculties_content">
@@ -83,7 +83,7 @@
                 </div>
               
             </div>
-         
+          -->
         </div>
 
     </div>

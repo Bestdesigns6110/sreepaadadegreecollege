@@ -1939,7 +1939,7 @@
 
       .act_out_01 {
         position: relative;
-        background-image: url("https://kits.yumnatype.com/universite/wp-content/uploads/sites/42/2025/09/business-executives-listening-to-speech-2025-04-05-04-46-51-utc.jpg");
+        background-image: url("../../images/background/bg-image-02.jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1948,7 +1948,14 @@
 
       .act_out_02 {
         position: relative;
-        background-image: url("images/background/bg-image-02.jpg");
+        background-image: url("../../images/background/bg-image-04.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .act_out_03 {
+        position: relative;
+        background-image: url("../../images/background/bg-image-06.jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2108,25 +2115,7 @@
         position: relative;
       }
 
-      .act_out_01 {
-        position: relative;
-        background-image: url("https://kits.yumnatype.com/universite/wp-content/uploads/sites/42/2025/09/business-executives-listening-to-speech-2025-04-05-04-46-51-utc.jpg");
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-size: cover;
-      }
-
-      .act_out_01::before {
-        content: "";
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        background-color: transparent;
-        --background-overlay: "";
-        /* background-image: linear-gradient(180deg, #02020200 0%, #062b67 100%); */
-        background-image: linear-gradient(180deg, #0000 30%, #0674b9 100%);
-        /* transition: .3s; */
-      }
+      
 
       .our_vision_sec .row.row-2 .col-md-6,
       .our_vision_sec .row .col-md-3 {

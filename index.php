@@ -363,31 +363,31 @@ Creator of Underrated Graduates</h2>
         <div class="clients_outer">
             <ul class="clients_carousel owl-carousel">
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="Untitled-5.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/Untitled-5.png" alt=""></a></figure>
                 </li>
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="Untitled.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/Untitled.png" alt=""></a></figure>
                 </li>
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="wns2.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/wns2.png" alt=""></a></figure>
                 </li>
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="apollo-3.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/apollo-3.png" alt=""></a></figure>
                 </li>
                  <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="navata3.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/navata3.png" alt=""></a></figure>
                 </li>
                  <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="dccan-3.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/dccan-3.png" alt=""></a></figure>
                 </li>
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="edygrad-3.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/edygrad-3.png" alt=""></a></figure>
                 </li>
                  <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="landmark-3.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/landmark-3.png" alt=""></a></figure>
                 </li>
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="sbi-4.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/sbi-4.png" alt=""></a></figure>
                 </li>
             </ul>
         </div>
@@ -627,22 +627,22 @@ Creator of Underrated Graduates</h2>
                     <figure class="clients_logo"><a href="#"><img src="mahindra-3.png" alt=""></a></figure>
                 </li> -->
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="preview.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/preview.png" alt=""></a></figure>
                 </li>
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="techkg.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/techkg.png" alt=""></a></figure>
                 </li>
                  <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="reaidy.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/reaidy.png" alt=""></a></figure>
                 </li>
                  <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="inteview.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/inteview.png" alt=""></a></figure>
                 </li>
                 <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="nihiraj.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/nihiraj.png" alt=""></a></figure>
                 </li>
                  <li class="clients_slide_item">
-                    <figure class="clients_logo"><a href="#"><img src="smarthub.png" alt=""></a></figure>
+                    <figure class="clients_logo"><a href="#"><img src="fonts/smarthub.png" alt=""></a></figure>
                 </li>
                 
             </ul>

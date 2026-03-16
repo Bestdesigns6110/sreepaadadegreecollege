@@ -24,11 +24,11 @@
                             <div class="footer_widget quick_links_widget">
                                 <h4 class="footer_widget_title">Quick Links</h4>
                                 <ul class="quick_links_list">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="academics-one.html">Courses</a></li>
-                                    <li><a href="blog.html">News</a></li>
-                                    <li><a href="events.html">Events</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="about-us.php">About Us</a></li>
+                                    <li><a href="courses.php">Courses</a></li>
+                                    <!-- <li><a href="blog.html">News</a></li> -->
+                                    <!-- <li><a href="events.html">Events</a></li> -->
+                                    <li><a href="contact-us.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -36,11 +36,11 @@
                             <div class="footer_widget links_widget">
                                 <h4 class="footer_widget_title">Links</h4>
                                 <ul class="links_list">
-                                    <li><a href="#">Students</a></li>
-                                    <li><a href="admission-one.html">Faculty & Staffs</a></li>
-                                    <li><a href="campus-life.html">Visit</a></li>
-                                    <li><a href="#">Registration</a></li>
-                                    <li><a href="academics-two.html">Services</a></li>
+                                    <!-- <li><a href="#">Students</a></li> -->
+                                    <li><a href="faculty.php">Faculty & Staffs</a></li>
+                                    <!-- <li><a href="campus-life.html">Visit</a></li> -->
+                                    <li><a href="admission.php">Registration</a></li>
+                                    <!-- <li><a href="academics-two.html">Services</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -59,7 +59,8 @@
             </div>
         </div>
         <div class="footer_bottom_home_one">
-            <div class="copyright_text_home_one">&copy; 2026 <a href="index.html">Sreepaadadegreecollege.</a> All Rights Reserved  <a href="https://bestdesigns.in/">bestdesigns.in</a></div>
+            <div class="copyright_text_home_one">&copy;  2026 All Rights Reserved by<a href="index.html"> Sreepaadadegreecollege.</a> Designed & Developed by <a href="https://bestdesigns.in/">BestDesigns.</a></div>
+            
             <div class="social_links_style_two">
                 <ul>
                     <li><a href="#"><i class="flaticon-facebook"></i></a></li>

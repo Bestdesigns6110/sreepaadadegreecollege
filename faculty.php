@@ -146,7 +146,7 @@
         <div class="row clearfix">
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                   <img src="teacher-1.jpg" alt="">                    <div class="faculties_content">
+                   <img src="images/teacher-1.jpg" alt="">                    <div class="faculties_content">
                         <h4>Name:D.S.Sowjanya</h4>
                         <p>Designation:HOD, Management </p>
                         <p>Teaching Experience:12 years</p>
@@ -158,7 +158,7 @@
             </div>
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="soba.jpg" alt="">
+                    <img src="images/soba.jpg" alt="">
                     <div class="faculties_content">
                          <h4>Name: Avala sobhana</h4>
                         <p>Designation:Lecturer, CS</p>
@@ -171,7 +171,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="aruna.jpeg" alt="">
+                    <img src="images/aruna.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name:  V A S Aruna</h4>
                         <p>Designation:Lecturer, CS</h4>
@@ -184,7 +184,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="bavani.jpeg" alt="">
+                    <img src="images/bavani.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name: MEKALA BHAVANI </h4>
                         <p>Designation:lecturer in chemistry</h4>
@@ -197,7 +197,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="vasavi.jpeg" alt="">
+                    <img src="images/vasavi.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name:Ch.vasavi rani</h4>
                         <p>Designation:Faculty in computers </h4>
@@ -210,7 +210,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="sai.jpeg" alt="">
+                    <img src="images/sai.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name:BALIVADA SAI</h4>
                         <p>Designation:Lecturer, CS</h4>
@@ -223,7 +223,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="ravi.jpeg" alt="">
+                    <img src="images/ravi.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name: M. RAVI KIRAN</h4>
                         <p>Designation:M.A(Lit),B.ed</h4>
@@ -236,7 +236,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="neeli.jpeg" alt="">
+                    <img src="images/neeli.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name:NEELI SRIKANTH </h4>
                         <p>Designation:Msc</h4>
@@ -249,7 +249,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="varalaksmi.jpeg" alt="">
+                    <img src="images/varalaksmi.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name: Ganta Varalakshmi</h4>
                         <p>Designation:Lecturer, Commerce</h4>
@@ -262,7 +262,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="ponnada.jpeg" alt="">
+                    <img src="images/ponnada.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name: Ponnada karthik Kumar</h4>
                         <p>Designation:lecturer & Statistics</h4>
@@ -275,7 +275,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="avs.jpeg" alt="">
+                    <img src="images/avs.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name: A V S r l s d Kishore</h4>
                         <p>Designation:Lecture in commerce</h4>
@@ -288,7 +288,7 @@
 
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
-                    <img src="venkat.jpeg" alt="">
+                    <img src="images/venkat.jpeg" alt="">
                     <div class="faculties_content">
                          <h4>Name:V.Venkata Vinay Teja</h4>
                         <p>Designation:lecturer, department</h4>

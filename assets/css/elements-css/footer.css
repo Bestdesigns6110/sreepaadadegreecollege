@@ -18,7 +18,7 @@
     padding-bottom: 40px;
 }
 .about_widget .footer_logo{
-    margin-bottom: 32px;
+    margin-bottom: 12px;
 }
 .about_widget p{
     font-style: normal;
@@ -59,7 +59,8 @@
 .footer_widget_title{
     font-weight: 700;
     color: var(--bs-white);
-    margin-bottom: 30px;
+    margin-bottom: 25px;
+    font-size: 20px;
 }
 .footer_widget ul{
     display: flex;
@@ -150,4 +151,10 @@
 
 .footer_logo img {
     width: 280px;
+}
+
+.footer_logo img {
+    background: #fff;
+    padding: 5px 7px;
+    border-radius: 5px;
 }

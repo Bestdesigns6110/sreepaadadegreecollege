@@ -608,6 +608,10 @@
         padding: 30px 20px;
         box-shadow: 0px 4px 20px rgba(153, 153, 153, 0.1);
     }
+        .sec_faculty .row .col-xl-2 {
+    flex: 0 0 auto;
+    width: 33.3%;
+}
 }
 @media only screen and (max-width: 767px){
     .sec_padding{
@@ -728,6 +732,10 @@
     .comment_box_area{
         padding: 50px 20px;
     }    
+
+
+
+
 }
 @media only screen and (max-width: 650px){
     .apply_admission_inner{
@@ -826,6 +834,10 @@
         position: relative;
         margin-bottom: 20px;
     }  
+    .sec_faculty .row .col-xl-2 {
+    flex: 0 0 auto;
+    width: 50%;
+}
 }
 @media only screen and (max-width: 500px){
     .event_section_home_one .shape{

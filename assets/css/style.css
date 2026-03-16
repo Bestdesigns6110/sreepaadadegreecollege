@@ -1779,15 +1779,15 @@
 .contact_info_section{
     position: relative;
 }
-.contact_info_inner{
+/* .contact_info_inner{
     margin-top: -122px;
-}
+} */
 .contact_info_item{
     position: relative;
     background: #FFFFFF;
     min-height: 245px;
     height: 100%;
-    padding: 40px 115px 40px 60px;
+    padding: 40px 60px 40px 60px;
     box-shadow: 0px 4px 20px rgba(153, 153, 153, 0.1);
 }
 .contact_info_item h4.title{
@@ -1834,3 +1834,331 @@
     font-weight: 700;
     color: var(--theme-color-two);
 }
+
+
+
+/* ///////// */
+
+
+
+      .bredcum_out {
+        background-image: url(https://kits.yumnatype.com/universite/wp-content/uploads/sites/42/2025/09/graduated-students-throwing-their-hats-2025-02-11-15-40-10-utc.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 450px;
+        display: flex;
+        align-items: center;
+        position: relative;
+      }
+
+      section.bredcum_out::before {
+        content: "";
+        background-color: #141619;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0px;
+        opacity: 0.7;
+      }
+
+      .bredcum-cnt h2 {
+        font-size: 42px;
+        font-weight: 600 !important;
+        color: hsl(0, 0%, 100%) !important;
+      }
+      .bredcum-cnt {
+        position: relative;
+        z-index: 9;
+      }
+
+      .bredcum-cnt p {
+        background: #0673b7;
+        display: inline-block;
+        padding: 8px 20px;
+        color: #fff;
+        margin-bottom: 25px;
+      }
+      .ratin_out .row .col-md-3 {
+        padding: 0px 0px;
+        background: #0673b7;
+      }
+      .col-md-3-01 {
+        background: #ca141d !important;
+      }
+      .col-md-3-01 .cout_01 {
+        background-color: #fff !important;
+      }
+      .cout_01 {
+        border: 1px solid #bac2d6;
+        padding: 38px 32px;
+        background-color: #ecf0f9;
+        margin-top: 6px;
+      }
+
+      .cout_01 h4 {
+        font-size: 40px;
+        font-weight: 700;
+        margin-bottom: 8px;
+      }
+      .cout_01 h6 {
+        font-size: 17px;
+        line-height: 28px;
+        font-weight: 600;
+        margin-bottom: 20px;
+        margin-top: 15px;
+      }
+      .acad_out .icon {
+        margin-bottom: 48px;
+      }
+      .acadmic_sec .col-md-4 {
+        padding: 0px !important;
+      }
+      .acad_out .icon svg {
+        width: 55px;
+        height: 55px;
+      }
+      .acad_out h3 {
+    font-size: 26px;
+    font-weight: 700 !important;
+    margin-bottom: 8px;
+}
+      .act_out_01 .acad_out h3,
+      .act_out_01 .acad_out p {
+        color: #fff;
+      }
+      .act_out_01 .acad_out svg {
+        fill: #fff;
+      }
+   .acad_out {
+    padding: 32px 32px 32px 32px;
+    border: 1px solid #bac2d6;
+    position: relative;
+    min-height: 333px;
+}
+
+      .act_out_01 {
+        position: relative;
+        background-image: url("https://kits.yumnatype.com/universite/wp-content/uploads/sites/42/2025/09/business-executives-listening-to-speech-2025-04-05-04-46-51-utc.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      .act_out_01::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: transparent;
+        --background-overlay: "";
+        /* background-image: linear-gradient(180deg, #02020200 0%, #062b67 100%); */
+        background-image: linear-gradient(180deg, #0000 30%, #0674b9 100%);
+        /* transition: .3s; */
+      }
+
+      .our_vision_sec .row.row-2 .col-md-6,
+      .our_vision_sec .row .col-md-3 {
+        /* border: 1px solid red; */
+        padding: 0px !important;
+        background-color: #fff;
+      }
+      .our_vision_sec .row .acad_out {
+        border: none !important;
+      }
+      .col-md-blue {
+        background-color: #062e6d !important;
+      }
+      .col-md-red {
+        background-color: #cc151e !important;
+      }
+      .our_vision_sec .col-md-3 .acad_out h3,
+      .our_vision_sec .col-md-3 .acad_out p {
+        color: #fff;
+      }
+      .our_vision_sec .col-md-3 .acad_out svg {
+        fill: #fff;
+      }
+
+      .staff_out {
+        position: relative;
+        margin-bottom: 65px !important;
+      }
+      .staff_detail {
+        position: absolute;
+        bottom: -33px;
+        text-align: center;
+        background: #052a65;
+        width: 88%;
+        margin: auto;
+        left: 0px;
+        right: 0px;
+        padding: 14px;
+      }
+      .staff_detail h4,
+      .staff_detail p {
+        color: #fff;
+      }
+
+
+      /* ///// */
+
+
+      
+      .bredcum_out {
+        background-image: url(https://kits.yumnatype.com/universite/wp-content/uploads/sites/42/2025/09/graduated-students-throwing-their-hats-2025-02-11-15-40-10-utc.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 450px;
+        display: flex;
+        align-items: center;
+        position: relative;
+      }
+
+      section.bredcum_out::before {
+        content: "";
+        background-color: #141619;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0px;
+        opacity: 0.7;
+      }
+
+      .bredcum-cnt h2 {
+        font-size: 42px;
+        font-weight: 600 !important;
+        color: hsl(0, 0%, 100%) !important;
+      }
+      .bredcum-cnt {
+        position: relative;
+        z-index: 9;
+      }
+
+      .bredcum-cnt p {
+        background: #0673b7;
+        display: inline-block;
+        padding: 8px 20px;
+        color: #fff;
+        margin-bottom: 25px;
+      }
+      .ratin_out .row .col-md-3 {
+        padding: 0px 0px;
+        background: #0673b7;
+      }
+      .col-md-3-01 {
+        background: #ca141d !important;
+      }
+      .col-md-3-01 .cout_01 {
+        background-color: #fff !important;
+      }
+      .cout_01 {
+        border: 1px solid #bac2d6;
+        padding: 38px 32px;
+        background-color: #ecf0f9;
+        margin-top: 6px;
+      }
+
+      .cout_01 h4 {
+        font-size: 40px;
+        font-weight: 700;
+        margin-bottom: 8px;
+      }
+      .cout_01 h6 {
+        font-size: 17px;
+        line-height: 28px;
+        font-weight: 600;
+        margin-bottom: 20px;
+        margin-top: 15px;
+      }
+      .acad_out .icon {
+        margin-bottom: 48px;
+      }
+      .acadmic_sec .col-md-4 {
+        padding: 0px !important;
+      }
+      .acad_out .icon svg {
+        width: 55px;
+        height: 55px;
+      }
+      .acad_out h3 {
+        font-size: 28px;
+        font-weight: 700 !important;
+        margin-bottom: 8px;
+      }
+      .act_out_01 .acad_out h3,
+      .act_out_01 .acad_out p {
+        color: #fff;
+      }
+      .act_out_01 .acad_out svg {
+        fill: #fff;
+      }
+      .acad_out {
+        padding: 32px 32px 32px 32px;
+        border: 1px solid #bac2d6;
+        position: relative;
+      }
+
+      .act_out_01 {
+        position: relative;
+        background-image: url("https://kits.yumnatype.com/universite/wp-content/uploads/sites/42/2025/09/business-executives-listening-to-speech-2025-04-05-04-46-51-utc.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      .act_out_01::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: transparent;
+        --background-overlay: "";
+        /* background-image: linear-gradient(180deg, #02020200 0%, #062b67 100%); */
+        background-image: linear-gradient(180deg, #0000 30%, #0674b9 100%);
+        /* transition: .3s; */
+      }
+
+      .our_vision_sec .row.row-2 .col-md-6,
+      .our_vision_sec .row .col-md-3 {
+        /* border: 1px solid red; */
+        padding: 0px !important;
+        background-color: #fff;
+      }
+      .our_vision_sec .row .acad_out {
+        border: none !important;
+      }
+      .col-md-blue {
+        background-color: #062e6d !important;
+      }
+      .col-md-red {
+        background-color: #cc151e !important;
+      }
+      .our_vision_sec .col-md-3 .acad_out h3,
+      .our_vision_sec .col-md-3 .acad_out p {
+        color: #fff;
+      }
+      .our_vision_sec .col-md-3 .acad_out svg {
+        fill: #fff;
+      }
+
+      .staff_out {
+        position: relative;
+        margin-bottom: 65px !important;
+      }
+      .staff_detail {
+        position: absolute;
+        bottom: -33px;
+        text-align: center;
+        background: #052a65;
+        width: 88%;
+        margin: auto;
+        left: 0px;
+        right: 0px;
+        padding: 14px;
+      }
+      .staff_detail h4,
+      .staff_detail p {
+        color: #fff;
+      }

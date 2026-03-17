@@ -247,6 +247,19 @@
               
             </div>
 
+             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
+                <div class="faculties_out bg-gradient">
+                    <img src="images/teacher.jpeg" alt="">
+                    <div class="faculties_content">
+                         <h4>Name: Kruthi Vegi </h4>
+                        <p>Designation: Lecturer in Management</h4>
+                        <p>Teaching Experience: 01 years </h4>
+                        <p>Specialization: Finance</h4>
+                    </div>
+                </div>
+              
+            </div>
+
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
                     <img src="images/varalaksmi.jpeg" alt="">

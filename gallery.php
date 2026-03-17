@@ -48,6 +48,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <div class="instagram_image_box mb_30">
                     <figure>
+                        <a href="images/Untitled-1.jpg" class="lightbox-image"><img src="images/Untitled-1.jpg" alt=""></a>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div class="instagram_image_box mb_30">
+                    <figure>
                         <a href="images/05.jpg" class="lightbox-image"><img src="images/05.jpg" alt=""></a>
                     </figure>
                 </div>

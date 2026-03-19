@@ -612,6 +612,14 @@
     flex: 0 0 auto;
     width: 33.3%;
 }
+body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar-collapse .main-footer,body  .sidebar-mini.sidebar-collapse .main-header {
+   border: 1px solid red !important;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+}
+.content-header {
+    padding: 25px 0px 10px !important;
+}
 }
 @media only screen and (max-width: 767px){
     .sec_padding{

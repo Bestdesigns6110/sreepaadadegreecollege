@@ -621,6 +621,10 @@ body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar
 .content-header {
     padding: 25px 0px 10px !important;
 }
+.acadmic_sec .row ,section.ratin_out{
+    padding-left: 15px;
+    padding-right:15px;
+}
 }
 @media only screen and (max-width: 767px){
 
@@ -783,7 +787,9 @@ body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar
 .why_points li h3{
     font-size: 23px !important;
 }
-
+.bredcum_out {
+    min-height: 300px !important;
+}
 }
 @media only screen and (max-width: 650px){
     .apply_admission_inner{

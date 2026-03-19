@@ -1,38 +1,6 @@
 <?php include 'includes/header.php'; ?>
-
-    <!-- About Section Home Four -->
-    <section class="bredcum_out">
-      <div class="container">
-        <div class="bredcum-cnt text-center">
-          <p>TIME TABLE</p>
-          <h2>
-          Sreepaada Degree College <br> Institute of Management
-          </h2>
-        </div>
-      </div>
-    </section>
-
-
-
-
-
-
-
-
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Exam Time Table</title>
-
 <style>
-
-body{
-    font-family: Arial, sans-serif;
-    background:#f5f6f8;
-    padding:40px;
-}
+    
 
 /* container */
 
@@ -108,9 +76,18 @@ h2{
 }
 
 </style>
-</head>
+    <!-- About Section Home Four -->
+    <section class="bredcum_out">
+      <div class="container">
+        <div class="bredcum-cnt text-center">
+          <p>TIME TABLE</p>
+          <h2>
+          Sreepaada Degree College <br> Institute of Management
+          </h2>
+        </div>
+      </div>
+    </section>
 
-<body>
 
 <div class="schedule">
 
@@ -210,8 +187,6 @@ World History
 
 </div>
 
-</body>
-</html>
 
 
 

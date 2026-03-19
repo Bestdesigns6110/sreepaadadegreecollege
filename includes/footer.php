@@ -49,8 +49,8 @@
                                 <h4 class="footer_widget_title">Contact Us</h4>
                                 <ul class="get_in_touch_list">
                                     <li><a href="#">D.NO:39-33-2/3, HIG-96, RTA OFFICE ROAD, Vuda Layout, Madhavadhara, Visakhapatnam, Andhra Pradesh 530018</a></li>
-                                    <li><a href="#">Phone: +97030 73871</a></li>
-                                    <li><a href="#">Email: +sreepaada.ug@gmail.com</a></li>
+                                    <li><a href="#">Phone: +91 97030 73871</a></li>
+                                    <li><a href="#">Email: sreepaada.ug@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>

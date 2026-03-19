@@ -2159,3 +2159,12 @@
       .staff_detail p {
         color: #fff;
       }
+
+      .banner_stamp h2{
+        color: #fff !important;
+        margin-bottom: 15px !important;
+      }
+
+            .banner_stamp p{
+        color: #fff !important;
+      }

@@ -507,8 +507,9 @@
     .blog_section_home_one .shape .shape-2{
         display: none;
     }
-    .about_section_home_one{
-        padding-bottom: 100px;
+    .about_section_home_one {
+        padding-bottom: 50px;
+        padding-top: 0;
     }
     .testimonial_title_area{
         margin-bottom: 40px;
@@ -622,6 +623,7 @@ body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar
 }
 }
 @media only screen and (max-width: 767px){
+
     .sec_padding{
         padding: 100px 0px;
     }
@@ -741,8 +743,46 @@ body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar
         padding: 50px 20px;
     }    
 
-
-
+.why_left img{
+        width: 100% !important;
+    height: auto !important;
+    object-fit: cover;
+    object-position: center right;
+}
+.sec_padding_70 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.funfact_left_text.whyuniversity.pt-0.pb-0{
+    margin-bottom: 20px !important;
+}
+    .industr_out.row {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+    }
+.banner_stamp h2 {
+    color: #fff !important;
+    margin-bottom: 15px !important;
+    font-size: 30px !important;
+    line-height: 41px;
+    margin-top: 20px !important;
+}
+.footer_middle {
+        padding-bottom: 35px !important;
+    }
+    .main_footer {
+        padding-top: 40px !important;
+    }
+    .uncard_out h3 {
+        line-height: 28px;
+        margin-top: 20px !important;
+        margin-bottom: 10px !important;
+        font-size: 22px !important;
+    }
+.why_points li h3{
+    font-size: 23px !important;
+}
 
 }
 @media only screen and (max-width: 650px){
@@ -780,6 +820,15 @@ body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar
     .event_speaker_box .speaker_image{
         margin-bottom: 20px;
     }
+    .section_title_one p br ,h3 br,h2 br{
+        display: none !important;
+    }
+    .lear_card {
+    background-size: 100% auto !important;
+}
+.funfact_left_text p {
+    margin-bottom: 26px !important;
+}
 }
 @media only screen and (max-width: 600px){
     .blog_section_home_one .outer_box,
@@ -846,6 +895,55 @@ body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar
     flex: 0 0 auto;
     width: 50%;
 }
+/* .sec_padding_70 p{text-align: justify !important;} */
+.mrl-4 {
+    margin-left: 0 !important;
+}
+.mrr-4{
+    margin-right: 0px !important;
+}
+.d-flex {
+    display: inline-block;
+}
+h2 {
+    font-size: 28px !important;
+    line-height: 34px !important;
+}
+.clients_section_home_one .sec_title h3 {
+    font-size: 28px;
+    line-height: 40px;
+    margin-bottom: 21px;
+}
+    .cont_out h2 {
+        margin-bottom: 10px !important;
+        font-size: 22px !important;
+        line-height: 31px !important;
+    }
+.campuslife_content {
+    background: #ca141d;
+    position: absolute;
+    bottom: 40px;
+    z-index: 9;
+    padding: 25px !important;
+    margin-right: 5%;
+}
+.cont_out h2 {
+    margin-bottom: 10px !important;
+}
+.cont_out h2 br{
+    display: none !important;
+}
+.campuslife {
+    position: relative;
+    margin-bottom: 25px;
+}
+.lear_card {
+    margin-bottom: 20px !important;
+}
+.about_right_content h6 {
+    font-size: 18px !important;
+    margin-bottom: 10px !important;
+}   
 }
 @media only screen and (max-width: 500px){
     .event_section_home_one .shape{
@@ -912,9 +1010,10 @@ body .sidebar-mini.sidebar-collapse .content-wrapper,body  .sidebar-mini.sidebar
         font-size: 36px;
         line-height: 46px;
     }
-    .about_right_content .button-style-one{
-        padding: 22px 30px;
-        padding-right: 60px;
+    .about_right_content .button-style-one {
+        padding: 10px 20px;
+        padding-right: 29px;
+        margin-bottom: 30px !important;
     }
     .about_right_content .button-style-one i{
         right: 30px;

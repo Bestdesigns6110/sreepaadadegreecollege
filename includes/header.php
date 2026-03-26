@@ -64,7 +64,7 @@
                         </div>
                         <div class="icon-text">
                             <strong>Address</strong>
-                            <a href="contact-us.php">Visakhapatnam, Andhra Pradesh 530018</a>
+                            <a href="contact-us.php">Madhavadhara, Andhra Pradesh 530018</a>
                         </div>
                     </div>
                     <div class="phone_info">
@@ -156,7 +156,7 @@
             <div class="contact-info">
                 <h4>Contact Info</h4>
                 <ul>
-                    <li>Visakhapatnam, Andhra Pradesh 530018</li>
+                    <li>Madhavadhara, Andhra Pradesh 530018</li>
                     <li><a href="tel:+8801682648101">+91 97030 73871</a></li>
                     <li><a href="mailto:info@example.com">sreepaada.ug@gmail.com</a></li>
                 </ul>

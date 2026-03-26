@@ -143,18 +143,18 @@
         </div>
 
         
-        <div class="row clearfix">
+        <!-- <div class="row clearfix">
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
                    <img src="images/teacher-1.jpg" alt="">                    <div class="faculties_content">
                         <h4>Name: D.S.Sowjanya</h4>
                         <p>Designation: HOD, Management </p>
                         <p>Teaching Experience: 12 years</p>
-                        <p>Specialization: MBA, MSc</p>
+                        <p>Specialization: MBA, MSc</p> -->
                         <!-- <p>Learn programming, software development, and computer technologies to build strong IT careers.</p> -->
-                    </div>
-                </div>
-                
+                    <!-- </div>
+                </div> -->
+<!--                 
             </div>
             <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
                 <div class="faculties_out bg-gradient">
@@ -310,144 +310,1317 @@
                     </div>
                 </div>
               
-            </div>
-
-            <!-- <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="young-ar-designer-sketching-holographic-wireframes-modern-office.jpg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name: D.S.Sowjanya</h4>
-                        <p>Designation:HOD, Management </h4>
-                        <p>Teaching Experience:12 years</h4>
-                        <p>Specialization:M.B.A, M.Sc</h4>
-                    </div>
-                </div>
-              
-            </div>
-
-            <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="young-ar-designer-sketching-holographic-wireframes-modern-office.jpg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name: Avala sobhana</h4>
-                        <p>Designation:Lecturer, CS</h4>
-                        <p>Teaching Experience:13years</h4>
-                        <p>Specialization:AI</h4>
-                    </div>
-                </div>
-              
-            </div>
-
-            <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="young-ar-designer-sketching-holographic-wireframes-modern-office.jpg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name: Avala sobhana</h4>
-                        <p>Designation:Lecturer, CS</h4>
-                        <p>Teaching Experience:13years</h4>
-                        <p>Specialization:AI</h4>
-                    </div>
-                </div>
-              
-            </div>
-
-
- -->
-
-
-
-            
-
-
-            
-
-
-
-
-            
-
-
-
-
-            <!-- <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="young-ar-designer-sketching-holographic-wireframes-modern-office.jpg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name: Avala sobhana</h4>
-                        <p>Designation:Lecturer, CS</h4>
-                        <p>Teaching Experience:13years</h4>
-                        <p>Specialization:AI</h4>
-                    </div>
-                </div>
-              
             </div> -->
 
-            <!-- <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="young-ar-designer-sketching-holographic-wireframes-modern-office.jpg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name: Avala sobhana</h4>
-                        <p>Designation:Lecturer, CS</h4>
-                        <p>Teaching Experience:13years</h4>
-                        <p>Specialization:AI</h4>
-                    </div>
-                </div>
-              
-            </div>
-            <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="teacher-2.jpg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name:V A S Aruna</h4>
-                        <p>Designation:lecturer in Computer</h4>
-                        <p>Teaching Experience:12 YEARS</h4>
-                        <p>Specialization:</h4>
-                    </div>
-                </div>
-              
-            </div>
-            <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="teacher.jpeg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name:MEKALA BHAVANI </h4>
-                        <p>Designation: lecturer in chemistry</h4>
-                        <p>Teaching Experience:5years</h4>
-                        <p>Specialization:organic chemistry </h4>
-                    </div>
-                </div>
-              
-            </div> -->
-            <!-- <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="images/portrait-south-asian-female-student-studying-college-with-diverse-classmates (1).jpg" alt="">
-                    <div class="faculties_content">
-                        <h4>Name: Ch.vasavi rani</h4>
-                        <p>Designation:Faculty in computers</h4>
-                        <p>Teaching Experience: 8 years.</h4>
-                        <p>Specialization:Quantum computing </h4>
-                    </div>
-                </div> -->
-              
-            <!-- </div>
-            <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 programs_block">
-                <div class="faculties_out bg-gradient">
-                    <img src="sai.jpeg" alt="">
-                    <div class="faculties_content">
-                         <h4>Name:BALIVADA SAI</h4>
-                        <p>Designation:lecturer in CS</h4>
-                        <p>Teaching Experience:4 years</h4>
-                        <p>Specialization: Data science, web designing</h4>
-                    </div>
-                </div>
-              
-            </div> -->
+            
          
         </div>
 <div class="link-btn centred"><a href="#" class="button-style-one">Admission Open </a></div>                    </div>
 
     </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Section Start -->
+<section class="wheelchair-section">
+
+    <style>
+        .wheelchair-section {
+            display: flex;
+            gap: 30px;
+            max-width: 1100px;
+            margin: 60px auto;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .wheelchair-image {
+            width: 45%;
+            position: relative;
+        }
+
+        .wheelchair-image img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            object-position: center top; /* ✅ FIXED */
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+
+        /* 🔴 RED ANIMATION */
+        .wheelchair-image img.active {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 0 4px #ff0000,
+                0 0 25px rgba(255, 0, 0, 0.8),
+                0 0 45px rgba(255, 0, 0, 0.5),
+                0 10px 30px rgba(0,0,0,0.2);
+            animation: redPulse 0.4s ease;
+        }
+
+        @keyframes redPulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 30px 15px rgba(255, 0, 0, 0);
+            }
+        }
+
+        /* Hover */
+        .wheelchair-image img:hover {
+            transform: scale(1.03);
+            box-shadow: 
+                0 0 10px rgba(255, 0, 0, 0.4),
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .quote-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e60023;
+            color: #fff;
+            font-size: 20px;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .wheelchair-content {
+            width: 55%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 2px;
+        }
+
+        .wheelchair-content h1 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #000;
+            margin: 0;
+            line-height: 1.2;
+        }
+
+        .wheelchair-content p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+        }
+
+        /* ✅ MOBILE FIX */
+        @media (max-width: 900px) {
+            .wheelchair-section {
+                flex-direction: column;
+            }
+
+            .card {
+                flex-direction: column;
+                text-align: center;
+                align-items: center;
+            }
+
+            .wheelchair-image {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+            }
+
+            .wheelchair-image img {
+                width: 100%;
+                max-width: 320px;
+                height: 240px;
+                object-fit: cover;
+                object-position: center top; /* ✅ SAME FOR BOTH */
+            }
+
+            .wheelchair-content {
+                width: 100%;
+            }
+        }
+    </style>
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/11.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: D.S.Sowjanya</h1>
+            <p>
+                Designation: HOD, Management<br>
+                Teaching Experience: 12 years<br>
+                Specialization: MBA, MSc
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/team-1.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>V.Venkata Vinay Teja</h1>
+            <p>
+                Designation: Lecturer, department <br>
+                Teaching Experience: 1 years <br>
+                Specialization: Machine Learning
+            </p>
+        </div>
+    </div>
+
+</section>
+<!-- Section End -->
+
+<!-- JS -->
+<script>
+    const images = document.querySelectorAll(".click-img");
+
+    images.forEach(img => {
+        img.addEventListener("click", () => {
+            img.classList.add("active");
+
+            setTimeout(() => {
+                img.classList.remove("active");
+            }, 400);
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Section Start 2 -->
+<section class="wheelchair-section">
+
+    <style>
+        .wheelchair-section {
+            display: flex;
+            gap: 30px;
+            max-width: 1100px;
+            margin: 60px auto;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .wheelchair-image {
+            width: 45%;
+            position: relative;
+        }
+
+        .wheelchair-image img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+
+        /* 🔴 RED ANIMATION */
+        .wheelchair-image img.active {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 0 4px #ff0000,
+                0 0 25px rgba(255, 0, 0, 0.8),
+                0 0 45px rgba(255, 0, 0, 0.5),
+                0 10px 30px rgba(0,0,0,0.2);
+            animation: redPulse 0.4s ease;
+        }
+
+        @keyframes redPulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 30px 15px rgba(255, 0, 0, 0);
+            }
+        }
+
+        /* Hover */
+        .wheelchair-image img:hover {
+            transform: scale(1.03);
+            box-shadow: 
+                0 0 10px rgba(255, 0, 0, 0.4),
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .quote-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e60023;
+            color: #fff;
+            font-size: 20px;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .wheelchair-content {
+            width: 55%;
+            display: flex;              /* ✅ controls spacing */
+            flex-direction: column;
+            justify-content: center;
+            gap: 2px;                  /* ✅ PERFECT spacing */
+        }
+
+        /* ✅ FINAL FIX */
+        .wheelchair-content h1 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+        }
+
+        .wheelchair-content p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .wheelchair-section {
+                flex-direction: column;
+            }
+
+            .card {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .wheelchair-image,
+            .wheelchair-content {
+                width: 100%;
+            }
+
+            .wheelchair-image img {
+                height: 240px;
+            }
+        }
+    </style>
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/04.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: A V S r l s d Kishore</h1>
+            <p>
+                Designation: Lecture in commerce<br>
+                Teaching Experience: 23 years<br>
+                Specialization: Taxation
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/02.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Ponnada karthik Kumar</h1>
+            <p>
+                Designation: Lecturer & Statistics <br>
+                Teaching Experience: 13 years<br>
+                Specialization: Statistics
+            </p>
+        </div>
+    </div>
+
+</section>
+<!-- Section End -->
+
+<!-- JS -->
+<script>
+    const images = document.querySelectorAll(".click-img");
+
+    images.forEach(img => {
+        img.addEventListener("click", () => {
+            img.classList.add("active");
+
+            setTimeout(() => {
+                img.classList.remove("active");
+            }, 400);
+        });
+    });
+</script>
+
+
+
+<!-- Section Start 3 -->
+<section class="wheelchair-section">
+
+    <style>
+        .wheelchair-section {
+            display: flex;
+            gap: 30px;
+            max-width: 1100px;
+            margin: 60px auto;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .wheelchair-image {
+            width: 45%;
+            position: relative;
+        }
+
+        .wheelchair-image img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+
+        /* 🔴 RED ANIMATION */
+        .wheelchair-image img.active {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 0 4px #ff0000,
+                0 0 25px rgba(255, 0, 0, 0.8),
+                0 0 45px rgba(255, 0, 0, 0.5),
+                0 10px 30px rgba(0,0,0,0.2);
+            animation: redPulse 0.4s ease;
+        }
+
+        @keyframes redPulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 30px 15px rgba(255, 0, 0, 0);
+            }
+        }
+
+        /* Hover */
+        .wheelchair-image img:hover {
+            transform: scale(1.03);
+            box-shadow: 
+                0 0 10px rgba(255, 0, 0, 0.4),
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .quote-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e60023;
+            color: #fff;
+            font-size: 20px;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .wheelchair-content {
+            width: 55%;
+            display: flex;              /* ✅ controls spacing */
+            flex-direction: column;
+            justify-content: center;
+            gap: 2px;                  /* ✅ PERFECT spacing */
+        }
+
+        /* ✅ FINAL FIX */
+        .wheelchair-content h1 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+        }
+
+        .wheelchair-content p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .wheelchair-section {
+                flex-direction: column;
+            }
+
+            .card {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .wheelchair-image,
+            .wheelchair-content {
+                width: 100%;
+            }
+
+            .wheelchair-image img {
+                height: 240px;
+            }
+        }
+    </style>
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/12.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Ganta Varalakshmi</h1>
+            <p>
+                Designation:Lecturer, Commerce<br>
+                Teaching Experience: 6 years<br>
+                Specialization: Accounts
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/01.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Neeli Srikanth</h1>
+            <p>
+                Designation: Msc <br>
+                Teaching Experience: 09 years<br>
+                Specialization: Mathematics
+            </p>
+        </div>
+    </div>
+
+</section>
+<!-- Section End -->
+
+<!-- JS -->
+<script>
+    const images = document.querySelectorAll(".click-img");
+
+    images.forEach(img => {
+        img.addEventListener("click", () => {
+            img.classList.add("active");
+
+            setTimeout(() => {
+                img.classList.remove("active");
+            }, 400);
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+<!-- Section Start 6 -->
+<section class="wheelchair-section">
+
+    <style>
+        .wheelchair-section {
+            display: flex;
+            gap: 30px;
+            max-width: 1100px;
+            margin: 60px auto;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .wheelchair-image {
+            width: 45%;
+            position: relative;
+        }
+
+        .wheelchair-image img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+
+        /* 🔴 RED ANIMATION */
+        .wheelchair-image img.active {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 0 4px #ff0000,
+                0 0 25px rgba(255, 0, 0, 0.8),
+                0 0 45px rgba(255, 0, 0, 0.5),
+                0 10px 30px rgba(0,0,0,0.2);
+            animation: redPulse 0.4s ease;
+        }
+
+        @keyframes redPulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 30px 15px rgba(255, 0, 0, 0);
+            }
+        }
+
+        /* Hover */
+        .wheelchair-image img:hover {
+            transform: scale(1.03);
+            box-shadow: 
+                0 0 10px rgba(255, 0, 0, 0.4),
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .quote-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e60023;
+            color: #fff;
+            font-size: 20px;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .wheelchair-content {
+            width: 55%;
+            display: flex;              /* ✅ controls spacing */
+            flex-direction: column;
+            justify-content: center;
+            gap: 2px;                  /* ✅ PERFECT spacing */
+        }
+
+        /* ✅ FINAL FIX */
+        .wheelchair-content h1 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+        }
+
+        .wheelchair-content p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .wheelchair-section {
+                flex-direction: column;
+            }
+
+            .card {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .wheelchair-image,
+            .wheelchair-content {
+                width: 100%;
+            }
+
+            .wheelchair-image img {
+                height: 240px;
+            }
+        }
+    </style>
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/Untitled-1.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Kruthi Vegi</h1>
+            <p>
+                Designation: Lecturer in Management<br>
+               Teaching Experience: 01 years<br>
+             Specialization: Finance
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/chairman-1.png" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>D.Rajesh
+</h1>
+            <p>
+                Designation: Lecturer<br>
+                Teaching Experience: <br>
+              Specialization: Principal
+            </p>
+        </div>
+    </div>
+
+</section>
+<!-- Section End -->
+
+<!-- JS -->
+<script>
+    const images = document.querySelectorAll(".click-img");
+
+    images.forEach(img => {
+        img.addEventListener("click", () => {
+            img.classList.add("active");
+
+            setTimeout(() => {
+                img.classList.remove("active");
+            }, 400);
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+<!-- Section Start 4 -->
+<section class="wheelchair-section">
+
+    <style>
+        .wheelchair-section {
+            display: flex;
+            gap: 30px;
+            max-width: 1100px;
+            margin: 60px auto;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .wheelchair-image {
+            width: 45%;
+            position: relative;
+        }
+
+        .wheelchair-image img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+
+        /* 🔴 RED ANIMATION */
+        .wheelchair-image img.active {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 0 4px #ff0000,
+                0 0 25px rgba(255, 0, 0, 0.8),
+                0 0 45px rgba(255, 0, 0, 0.5),
+                0 10px 30px rgba(0,0,0,0.2);
+            animation: redPulse 0.4s ease;
+        }
+
+        @keyframes redPulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 30px 15px rgba(255, 0, 0, 0);
+            }
+        }
+
+        /* Hover */
+        .wheelchair-image img:hover {
+            transform: scale(1.03);
+            box-shadow: 
+                0 0 10px rgba(255, 0, 0, 0.4),
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .quote-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e60023;
+            color: #fff;
+            font-size: 20px;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .wheelchair-content {
+            width: 55%;
+            display: flex;              /* ✅ controls spacing */
+            flex-direction: column;
+            justify-content: center;
+            gap: 2px;                  /* ✅ PERFECT spacing */
+        }
+
+        /* ✅ FINAL FIX */
+        .wheelchair-content h1 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+        }
+
+        .wheelchair-content p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .wheelchair-section {
+                flex-direction: column;
+            }
+
+            .card {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .wheelchair-image,
+            .wheelchair-content {
+                width: 100%;
+            }
+
+            .wheelchair-image img {
+                height: 240px;
+            }
+        }
+    </style>
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/007.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: M.Ravi Kiran</h1>
+            <p>
+                Designation: M.A(Lit),B.ed<br>
+                Teaching Experience: 1 years<br>
+                Specialization:Sr. Faculty In English.
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/008.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Balivada Sai</h1>
+            <p>
+                Designation:Lecturer, CS <br>
+                Teaching Experience: 4 years<br>
+               Specialization: Data Science
+            </p>
+        </div>
+    </div>
+
+</section>
+<!-- Section End -->
+
+<!-- JS -->
+<script>
+    const images = document.querySelectorAll(".click-img");
+
+    images.forEach(img => {
+        img.addEventListener("click", () => {
+            img.classList.add("active");
+
+            setTimeout(() => {
+                img.classList.remove("active");
+            }, 400);
+        });
+    });
+</script>
+
+
+
+
+
+
+<!-- Section Start 5 -->
+<section class="wheelchair-section">
+
+    <style>
+        .wheelchair-section {
+            display: flex;
+            gap: 30px;
+            max-width: 1100px;
+            margin: 60px auto;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .wheelchair-image {
+            width: 45%;
+            position: relative;
+        }
+
+        .wheelchair-image img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+
+        /* 🔴 RED ANIMATION */
+        .wheelchair-image img.active {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 0 4px #ff0000,
+                0 0 25px rgba(255, 0, 0, 0.8),
+                0 0 45px rgba(255, 0, 0, 0.5),
+                0 10px 30px rgba(0,0,0,0.2);
+            animation: redPulse 0.4s ease;
+        }
+
+        @keyframes redPulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 30px 15px rgba(255, 0, 0, 0);
+            }
+        }
+
+        /* Hover */
+        .wheelchair-image img:hover {
+            transform: scale(1.03);
+            box-shadow: 
+                0 0 10px rgba(255, 0, 0, 0.4),
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .quote-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e60023;
+            color: #fff;
+            font-size: 20px;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .wheelchair-content {
+            width: 55%;
+            display: flex;              /* ✅ controls spacing */
+            flex-direction: column;
+            justify-content: center;
+            gap: 2px;                  /* ✅ PERFECT spacing */
+        }
+
+        /* ✅ FINAL FIX */
+        .wheelchair-content h1 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+        }
+
+        .wheelchair-content p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .wheelchair-section {
+                flex-direction: column;
+            }
+
+            .card {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .wheelchair-image,
+            .wheelchair-content {
+                width: 100%;
+            }
+
+            .wheelchair-image img {
+                height: 240px;
+            }
+        }
+    </style>
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/13.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Ch.Vasavi Rani</h1>
+            <p>
+                Designation: Faculty in Computers<br>
+               Teaching Experience: 8 years<br>
+              Specialization: Quantum Computing
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/05.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Mekala Bhavani
+</h1>
+            <p>
+                Designation:Lecturer in chemistry <br>
+                Teaching Experience: 5 years<br>
+               Specialization: Organic Chemistry
+            </p>
+        </div>
+    </div>
+
+</section>
+<!-- Section End -->
+
+<!-- JS -->
+<script>
+    const images = document.querySelectorAll(".click-img");
+
+    images.forEach(img => {
+        img.addEventListener("click", () => {
+            img.classList.add("active");
+
+            setTimeout(() => {
+                img.classList.remove("active");
+            }, 400);
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+<!-- Section Start 6 -->
+<section class="wheelchair-section">
+
+    <style>
+        .wheelchair-section {
+            display: flex;
+            gap: 30px;
+            max-width: 1100px;
+            margin: 60px auto;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .wheelchair-image {
+            width: 45%;
+            position: relative;
+        }
+
+        .wheelchair-image img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.4s ease;
+            cursor: pointer;
+        }
+
+        /* 🔴 RED ANIMATION */
+        .wheelchair-image img.active {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 0 4px #ff0000,
+                0 0 25px rgba(255, 0, 0, 0.8),
+                0 0 45px rgba(255, 0, 0, 0.5),
+                0 10px 30px rgba(0,0,0,0.2);
+            animation: redPulse 0.4s ease;
+        }
+
+        @keyframes redPulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 30px 15px rgba(255, 0, 0, 0);
+            }
+        }
+
+        /* Hover */
+        .wheelchair-image img:hover {
+            transform: scale(1.03);
+            box-shadow: 
+                0 0 10px rgba(255, 0, 0, 0.4),
+                0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .quote-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #e60023;
+            color: #fff;
+            font-size: 20px;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .wheelchair-content {
+            width: 55%;
+            display: flex;              /* ✅ controls spacing */
+            flex-direction: column;
+            justify-content: center;
+            gap: 2px;                  /* ✅ PERFECT spacing */
+        }
+
+        /* ✅ FINAL FIX */
+        .wheelchair-content h1 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+        }
+
+        .wheelchair-content p {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .wheelchair-section {
+                flex-direction: column;
+            }
+
+            .card {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .wheelchair-image,
+            .wheelchair-content {
+                width: 100%;
+            }
+
+            .wheelchair-image img {
+                height: 240px;
+            }
+        }
+    </style>
+
+    <!-- Card 1 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/03.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: V A S Aruna</h1>
+            <p>
+                Designation: Lecturer, CS<br>
+               Teaching Experience: 12 years<br>
+              Specialization:
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+        <div class="wheelchair-image">
+            <img src="images/10.jpg" class="click-img">
+            <div class="quote-box">❝</div>
+        </div>
+
+        <div class="wheelchair-content">
+            <h1>Name: Avala Sobhna
+</h1>
+            <p>
+                Designation: Lecturer, CS<br>
+                Teaching Experience: 13 years<br>
+              Specialization: AI
+            </p>
+        </div>
+    </div>
+
+</section>
+<!-- Section End -->
+
+<!-- JS -->
+<script>
+    const images = document.querySelectorAll(".click-img");
+
+    images.forEach(img => {
+        img.addEventListener("click", () => {
+            img.classList.add("active");
+
+            setTimeout(() => {
+                img.classList.remove("active");
+            }, 400);
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
 
 
 

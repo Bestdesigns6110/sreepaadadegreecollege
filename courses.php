@@ -99,7 +99,53 @@
             <div class="col-md-6">
                    <div class="funfact_left_text whyuniversity pt-0 pb-0">
                     
-                        <h5 class="line_out">WHO WE ARE</h5>
+                        <!-- <h5 class="line_out">WHO WE ARE</h5> -->
+
+
+
+
+
+                           <h5 class="line_out">WHO WE ARE</h5>
+
+<style>
+.line_out {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: #d71920;
+    letter-spacing: 2px;
+    margin: 30px 0;
+}
+
+/* Left Line */
+.line_out::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 10%; /* adds spacing from edge */
+    width: 20%; /* 🔥 reduced from 40% */
+    height: 2px;
+    background: #d71920;
+    transform: translateY(-50%);
+}
+
+/* Right Line */
+.line_out::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 10%; /* adds spacing from edge */
+    width: 20%; /* 🔥 reduced from 40% */
+    height: 2px;
+    background: #d71920;
+    transform: translateY(-50%);
+}
+</style>
+
+
+
+
                         <h2>Why Choose Our College for Your Future
 </h2>
 </div>

@@ -92,12 +92,12 @@
     <!-- End Header Middle -->
 
     <!-- Header Lower -->
-    <div class="header_lower_style_one">
+    <!-- <div class="header_lower_style_one">
         <div class="container"> 
             <div class="header_lower_inner">
-                <div class="header_lower_right menu_area">
+                <div class="header_lower_right menu_area"> -->
                     <!--Mobile Navigation Toggler-->
-                    <div class="mobile-nav-toggler">
+                    <!-- <div class="mobile-nav-toggler">
                         <i class="icon-bar"></i>
                         <i class="icon-bar"></i>
                         <i class="icon-bar"></i>
@@ -123,9 +123,186 @@
                 </div> 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Header Top -->
 
+
+
+
+
+<!-- Header Start -->
+<section class="header">
+
+    <style>
+        .header {
+            background: #efefef;
+            padding: 20px 20px;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        /* Layout */
+        .nav-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        /* Menu */
+        .nav-menu {
+            list-style: none;
+            display: flex;
+            gap: 55px;
+            margin: 0;
+            padding: 0;
+        }
+
+        .nav-menu li {
+            position: relative;
+        }
+
+        .nav-menu li a {
+            text-decoration: none;
+            color: #444;
+            font-size: 14px;
+            letter-spacing: 1.5px;
+            font-weight: 600;
+            text-transform: uppercase;
+            padding: 5px 0;
+            transition: 0.3s;
+        }
+
+        .nav-menu li a:hover {
+            color: #d71920;
+        }
+
+        .nav-menu li a::after {
+            content: "";
+            position: absolute;
+            left: 50%;
+            bottom: -6px;
+            width: 0%;
+            height: 2px;
+            background: #d71920;
+            transform: translateX(-50%);
+            transition: 0.3s;
+        }
+
+        .nav-menu li a:hover::after {
+            width: 100%;
+        }
+
+        .nav-menu li.active a {
+            color: #d71920;
+        }
+
+        .nav-menu li.active a::after {
+            width: 100%;
+        }
+
+        /* Button */
+        .admission-btn {
+            position: absolute;
+            right: 20px;
+            background: #d71920;
+            color: #fff;
+            padding: 12px 20px;
+            text-decoration: none;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        /* Hamburger */
+        .menu-toggle {
+            display: none;
+            position: absolute;
+            left: 20px;
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        /* 📱 MOBILE VIEW */
+        @media (max-width: 768px) {
+
+            .nav-container {
+                justify-content: center;
+            }
+
+            .menu-toggle {
+                display: block;
+            }
+
+            .nav-menu {
+                position: absolute;
+                top: 60px;
+                left: 0;
+                width: 100%;
+                background: #efefef;
+                flex-direction: column;
+                align-items: center;
+                gap: 5px;
+                padding: 20px 0;
+                display: none;
+            }
+
+            .nav-menu.active {
+                display: flex;
+            }
+
+            .admission-btn {
+                position: static;
+                margin-top: 10px;
+            }
+        }
+    </style>
+
+    <div class="nav-container">
+
+        <!-- Hamburger -->
+        <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+
+        <!-- Menu -->
+        <ul class="nav-menu" id="navMenu">
+            <li><a href="index.php">HOME</a></li>
+            <li><a href="about-us.php">ABOUT</a></li>
+            <li><a href="courses.php">COURSES</a></li>
+            <li><a href="faculty.php">FACULTY'S</a></li>
+            <li><a href="gallery.php">GALLERY</a></li>
+            <li><a href="exam-time-table.php">EXAM TIME TABLE</a></li>
+            <li><a href="contact-us.php">CONTACT US</a></li>
+            <!-- <li><a href="admission.php">ADMISSION</a></li> -->
+        </ul>
+
+        <!-- Desktop Button -->
+        <a href="admission.php" class="admission-btn">ADMISSION</a>
+
+    </div>
+
+    <!-- JS -->
+    <script>
+        function toggleMenu() {
+            document.getElementById("navMenu").classList.toggle("active");
+        }
+
+        const currentPage = window.location.pathname.split("/").pop();
+        const menuItems = document.querySelectorAll("#navMenu li");
+
+        menuItems.forEach(li => {
+            const link = li.querySelector("a").getAttribute("href");
+            if (link === currentPage) {
+                li.classList.add("active");
+            }
+        });
+    </script>
+
+</section>
+<!-- Header End -->
+
+
+
+
+    
     <!-- Sticky Header-->
     <div class="sticky_header">
         <div class="container">     

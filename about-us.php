@@ -23,7 +23,56 @@
         <div class="row">
           <div class="col-xl-7 col-lg-6 col-md-12">
             <div class="about_right_content">
+              <!-- <h5 class="line_out">ABOUT</h5> -->
+
+
+
+
+
               <h5 class="line_out">ABOUT</h5>
+
+<style>
+.line_out {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: #d71920;
+    letter-spacing: 2px;
+    margin: 30px 0;
+}
+
+/* Left Line */
+.line_out::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 10%; /* adds spacing from edge */
+    width: 20%; /* 🔥 reduced from 40% */
+    height: 2px;
+    background: #d71920;
+    transform: translateY(-50%);
+}
+
+/* Right Line */
+.line_out::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 10%; /* adds spacing from edge */
+    width: 20%; /* 🔥 reduced from 40% */
+    height: 2px;
+    background: #d71920;
+    transform: translateY(-50%);
+}
+</style>
+
+
+
+
+
+
+
               <h2>
                 <span>Sreepaada Degree College</span>,<br />
                  Inspiring Knowledge, Creating Leaders
